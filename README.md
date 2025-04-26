@@ -1,4 +1,4 @@
-# Aluminium_Forcasting
+# 📈 Aluminium Price Forecasting for Procurement Optimization
 🚀 Project Overview
 Built a machine learning and deep learning-based solution to forecast aluminium prices for smarter procurement planning.
 
